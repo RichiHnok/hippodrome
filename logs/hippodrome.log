@@ -1,0 +1,10 @@
+2023-09-07 06:51:36,591 DEBUG Horse [main] Создание Horse, имя [Bucephalus], скорость [2.4]
+2023-09-07 06:51:36,595 DEBUG Horse [main] Создание Horse, имя [Ace of Spades], скорость [2.5]
+2023-09-07 06:51:36,596 DEBUG Horse [main] Создание Horse, имя [Zephyr], скорость [2.6]
+2023-09-07 06:51:36,596 DEBUG Horse [main] Создание Horse, имя [Blaze], скорость [2.7]
+2023-09-07 06:51:36,597 DEBUG Horse [main] Создание Horse, имя [Lobster], скорость [2.8]
+2023-09-07 06:51:36,597 DEBUG Horse [main] Создание Horse, имя [Pegasus], скорость [2.9]
+2023-09-07 06:51:36,601 DEBUG Horse [main] Создание Horse, имя [Cherry], скорость [3.0]
+2023-09-07 06:51:36,602 DEBUG Hippodrome [main] Создание Hippodrome, лошадей [7]
+2023-09-07 06:51:36,602 INFO Main [main] Начало скачек. Количество участников: 7
+2023-09-07 06:51:36,822 INFO Main [main] Окончание скачек. Победитель: Pegasus
